@@ -1,0 +1,221 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 16/08/2017 12:03
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-medal:before { content: "\f100"; }
+.flaticon-gold-medal-1:before { content: "\f101"; }
+.flaticon-trophy:before { content: "\f102"; }
+.flaticon-gold-medal:before { content: "\f103"; }
+.flaticon-bookmark:before { content: "\f104"; }
+.flaticon-oil:before { content: "\f105"; }
+.flaticon-medical-1:before { content: "\f106"; }
+.flaticon-medical:before { content: "\f107"; }
+.flaticon-tongue-and-mouth:before { content: "\f108"; }
+.flaticon-human-lungs:before { content: "\f109"; }
+.flaticon-respiratory-system:before { content: "\f10a"; }
+.flaticon-human-fetus:before { content: "\f10b"; }
+.flaticon-human-teeth:before { content: "\f10c"; }
+.flaticon-spleen:before { content: "\f10d"; }
+.flaticon-stomach:before { content: "\f10e"; }
+.flaticon-kidneys:before { content: "\f10f"; }
+.flaticon-uterus:before { content: "\f110"; }
+.flaticon-pancreas:before { content: "\f111"; }
+.flaticon-liver:before { content: "\f112"; }
+.flaticon-intestines:before { content: "\f113"; }
+.flaticon-lungs-1:before { content: "\f114"; }
+.flaticon-heart-1:before { content: "\f115"; }
+.flaticon-brain:before { content: "\f116"; }
+.flaticon-charter:before { content: "\f117"; }
+.flaticon-generator:before { content: "\f118"; }
+.flaticon-clutch:before { content: "\f119"; }
+.flaticon-spark-plug:before { content: "\f11a"; }
+.flaticon-timing-belt:before { content: "\f11b"; }
+.flaticon-suspension:before { content: "\f11c"; }
+.flaticon-disc-brake:before { content: "\f11d"; }
+.flaticon-steering-wheel:before { content: "\f11e"; }
+.flaticon-dining-set:before { content: "\f11f"; }
+.flaticon-technology-2:before { content: "\f120"; }
+.flaticon-bookshelf:before { content: "\f121"; }
+.flaticon-window-1:before { content: "\f122"; }
+.flaticon-sofa-2:before { content: "\f123"; }
+.flaticon-tap:before { content: "\f124"; }
+.flaticon-sink:before { content: "\f125"; }
+.flaticon-window:before { content: "\f126"; }
+.flaticon-sofa-1:before { content: "\f127"; }
+.flaticon-livingroom:before { content: "\f128"; }
+.flaticon-stairs:before { content: "\f129"; }
+.flaticon-bath:before { content: "\f12a"; }
+.flaticon-sofa:before { content: "\f12b"; }
+.flaticon-table-1:before { content: "\f12c"; }
+.flaticon-table:before { content: "\f12d"; }
+.flaticon-rocking-chair:before { content: "\f12e"; }
+.flaticon-bathtub:before { content: "\f12f"; }
+.flaticon-transfusion:before { content: "\f130"; }
+.flaticon-syringe:before { content: "\f131"; }
+.flaticon-nurse:before { content: "\f132"; }
+.flaticon-heart:before { content: "\f133"; }
+.flaticon-thermometer:before { content: "\f134"; }
+.flaticon-lungs:before { content: "\f135"; }
+.flaticon-ambulance:before { content: "\f136"; }
+.flaticon-medicine-1:before { content: "\f137"; }
+.flaticon-tooth:before { content: "\f138"; }
+.flaticon-surgeon:before { content: "\f139"; }
+.flaticon-house:before { content: "\f13a"; }
+.flaticon-medicine:before { content: "\f13b"; }
+.flaticon-key:before { content: "\f13c"; }
+.flaticon-first-aid-kit:before { content: "\f13d"; }
+.flaticon-mortgage-1:before { content: "\f13e"; }
+.flaticon-medical-history:before { content: "\f13f"; }
+.flaticon-mortgage:before { content: "\f140"; }
+.flaticon-building:before { content: "\f141"; }
+.flaticon-transport-1:before { content: "\f142"; }
+.flaticon-construction-9:before { content: "\f143"; }
+.flaticon-construction-8:before { content: "\f144"; }
+.flaticon-desk-lamp:before { content: "\f145"; }
+.flaticon-wall:before { content: "\f146"; }
+.flaticon-construction-7:before { content: "\f147"; }
+.flaticon-drawing-1:before { content: "\f148"; }
+.flaticon-technology-1:before { content: "\f149"; }
+.flaticon-wrench:before { content: "\f14a"; }
+.flaticon-construction-6:before { content: "\f14b"; }
+.flaticon-security:before { content: "\f14c"; }
+.flaticon-water-1:before { content: "\f14d"; }
+.flaticon-roller:before { content: "\f14e"; }
+.flaticon-construction-5:before { content: "\f14f"; }
+.flaticon-construction-4:before { content: "\f150"; }
+.flaticon-technology:before { content: "\f151"; }
+.flaticon-water:before { content: "\f152"; }
+.flaticon-construction-3:before { content: "\f153"; }
+.flaticon-energy:before { content: "\f154"; }
+.flaticon-construction-2:before { content: "\f155"; }
+.flaticon-construction-1:before { content: "\f156"; }
+.flaticon-people:before { content: "\f157"; }
+.flaticon-transport:before { content: "\f158"; }
+.flaticon-construction:before { content: "\f159"; }
+.flaticon-drawing:before { content: "\f15a"; }
+    
+    $font-Flaticon-medal: "\f100";
+    $font-Flaticon-gold-medal-1: "\f101";
+    $font-Flaticon-trophy: "\f102";
+    $font-Flaticon-gold-medal: "\f103";
+    $font-Flaticon-bookmark: "\f104";
+    $font-Flaticon-oil: "\f105";
+    $font-Flaticon-medical-1: "\f106";
+    $font-Flaticon-medical: "\f107";
+    $font-Flaticon-tongue-and-mouth: "\f108";
+    $font-Flaticon-human-lungs: "\f109";
+    $font-Flaticon-respiratory-system: "\f10a";
+    $font-Flaticon-human-fetus: "\f10b";
+    $font-Flaticon-human-teeth: "\f10c";
+    $font-Flaticon-spleen: "\f10d";
+    $font-Flaticon-stomach: "\f10e";
+    $font-Flaticon-kidneys: "\f10f";
+    $font-Flaticon-uterus: "\f110";
+    $font-Flaticon-pancreas: "\f111";
+    $font-Flaticon-liver: "\f112";
+    $font-Flaticon-intestines: "\f113";
+    $font-Flaticon-lungs-1: "\f114";
+    $font-Flaticon-heart-1: "\f115";
+    $font-Flaticon-brain: "\f116";
+    $font-Flaticon-charter: "\f117";
+    $font-Flaticon-generator: "\f118";
+    $font-Flaticon-clutch: "\f119";
+    $font-Flaticon-spark-plug: "\f11a";
+    $font-Flaticon-timing-belt: "\f11b";
+    $font-Flaticon-suspension: "\f11c";
+    $font-Flaticon-disc-brake: "\f11d";
+    $font-Flaticon-steering-wheel: "\f11e";
+    $font-Flaticon-dining-set: "\f11f";
+    $font-Flaticon-technology-2: "\f120";
+    $font-Flaticon-bookshelf: "\f121";
+    $font-Flaticon-window-1: "\f122";
+    $font-Flaticon-sofa-2: "\f123";
+    $font-Flaticon-tap: "\f124";
+    $font-Flaticon-sink: "\f125";
+    $font-Flaticon-window: "\f126";
+    $font-Flaticon-sofa-1: "\f127";
+    $font-Flaticon-livingroom: "\f128";
+    $font-Flaticon-stairs: "\f129";
+    $font-Flaticon-bath: "\f12a";
+    $font-Flaticon-sofa: "\f12b";
+    $font-Flaticon-table-1: "\f12c";
+    $font-Flaticon-table: "\f12d";
+    $font-Flaticon-rocking-chair: "\f12e";
+    $font-Flaticon-bathtub: "\f12f";
+    $font-Flaticon-transfusion: "\f130";
+    $font-Flaticon-syringe: "\f131";
+    $font-Flaticon-nurse: "\f132";
+    $font-Flaticon-heart: "\f133";
+    $font-Flaticon-thermometer: "\f134";
+    $font-Flaticon-lungs: "\f135";
+    $font-Flaticon-ambulance: "\f136";
+    $font-Flaticon-medicine-1: "\f137";
+    $font-Flaticon-tooth: "\f138";
+    $font-Flaticon-surgeon: "\f139";
+    $font-Flaticon-house: "\f13a";
+    $font-Flaticon-medicine: "\f13b";
+    $font-Flaticon-key: "\f13c";
+    $font-Flaticon-first-aid-kit: "\f13d";
+    $font-Flaticon-mortgage-1: "\f13e";
+    $font-Flaticon-medical-history: "\f13f";
+    $font-Flaticon-mortgage: "\f140";
+    $font-Flaticon-building: "\f141";
+    $font-Flaticon-transport-1: "\f142";
+    $font-Flaticon-construction-9: "\f143";
+    $font-Flaticon-construction-8: "\f144";
+    $font-Flaticon-desk-lamp: "\f145";
+    $font-Flaticon-wall: "\f146";
+    $font-Flaticon-construction-7: "\f147";
+    $font-Flaticon-drawing-1: "\f148";
+    $font-Flaticon-technology-1: "\f149";
+    $font-Flaticon-wrench: "\f14a";
+    $font-Flaticon-construction-6: "\f14b";
+    $font-Flaticon-security: "\f14c";
+    $font-Flaticon-water-1: "\f14d";
+    $font-Flaticon-roller: "\f14e";
+    $font-Flaticon-construction-5: "\f14f";
+    $font-Flaticon-construction-4: "\f150";
+    $font-Flaticon-technology: "\f151";
+    $font-Flaticon-water: "\f152";
+    $font-Flaticon-construction-3: "\f153";
+    $font-Flaticon-energy: "\f154";
+    $font-Flaticon-construction-2: "\f155";
+    $font-Flaticon-construction-1: "\f156";
+    $font-Flaticon-people: "\f157";
+    $font-Flaticon-transport: "\f158";
+    $font-Flaticon-construction: "\f159";
+    $font-Flaticon-drawing: "\f15a";

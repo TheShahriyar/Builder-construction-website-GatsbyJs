@@ -1,0 +1,122 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 16/08/2017 12:03
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-medal:before { content: "\f100"; }
+.flaticon-gold-medal-1:before { content: "\f101"; }
+.flaticon-trophy:before { content: "\f102"; }
+.flaticon-gold-medal:before { content: "\f103"; }
+.flaticon-bookmark:before { content: "\f104"; }
+.flaticon-oil:before { content: "\f105"; }
+.flaticon-medical-1:before { content: "\f106"; }
+.flaticon-medical:before { content: "\f107"; }
+.flaticon-tongue-and-mouth:before { content: "\f108"; }
+.flaticon-human-lungs:before { content: "\f109"; }
+.flaticon-respiratory-system:before { content: "\f10a"; }
+.flaticon-human-fetus:before { content: "\f10b"; }
+.flaticon-human-teeth:before { content: "\f10c"; }
+.flaticon-spleen:before { content: "\f10d"; }
+.flaticon-stomach:before { content: "\f10e"; }
+.flaticon-kidneys:before { content: "\f10f"; }
+.flaticon-uterus:before { content: "\f110"; }
+.flaticon-pancreas:before { content: "\f111"; }
+.flaticon-liver:before { content: "\f112"; }
+.flaticon-intestines:before { content: "\f113"; }
+.flaticon-lungs-1:before { content: "\f114"; }
+.flaticon-heart-1:before { content: "\f115"; }
+.flaticon-brain:before { content: "\f116"; }
+.flaticon-charter:before { content: "\f117"; }
+.flaticon-generator:before { content: "\f118"; }
+.flaticon-clutch:before { content: "\f119"; }
+.flaticon-spark-plug:before { content: "\f11a"; }
+.flaticon-timing-belt:before { content: "\f11b"; }
+.flaticon-suspension:before { content: "\f11c"; }
+.flaticon-disc-brake:before { content: "\f11d"; }
+.flaticon-steering-wheel:before { content: "\f11e"; }
+.flaticon-dining-set:before { content: "\f11f"; }
+.flaticon-technology-2:before { content: "\f120"; }
+.flaticon-bookshelf:before { content: "\f121"; }
+.flaticon-window-1:before { content: "\f122"; }
+.flaticon-sofa-2:before { content: "\f123"; }
+.flaticon-tap:before { content: "\f124"; }
+.flaticon-sink:before { content: "\f125"; }
+.flaticon-window:before { content: "\f126"; }
+.flaticon-sofa-1:before { content: "\f127"; }
+.flaticon-livingroom:before { content: "\f128"; }
+.flaticon-stairs:before { content: "\f129"; }
+.flaticon-bath:before { content: "\f12a"; }
+.flaticon-sofa:before { content: "\f12b"; }
+.flaticon-table-1:before { content: "\f12c"; }
+.flaticon-table:before { content: "\f12d"; }
+.flaticon-rocking-chair:before { content: "\f12e"; }
+.flaticon-bathtub:before { content: "\f12f"; }
+.flaticon-transfusion:before { content: "\f130"; }
+.flaticon-syringe:before { content: "\f131"; }
+.flaticon-nurse:before { content: "\f132"; }
+.flaticon-heart:before { content: "\f133"; }
+.flaticon-thermometer:before { content: "\f134"; }
+.flaticon-lungs:before { content: "\f135"; }
+.flaticon-ambulance:before { content: "\f136"; }
+.flaticon-medicine-1:before { content: "\f137"; }
+.flaticon-tooth:before { content: "\f138"; }
+.flaticon-surgeon:before { content: "\f139"; }
+.flaticon-house:before { content: "\f13a"; }
+.flaticon-medicine:before { content: "\f13b"; }
+.flaticon-key:before { content: "\f13c"; }
+.flaticon-first-aid-kit:before { content: "\f13d"; }
+.flaticon-mortgage-1:before { content: "\f13e"; }
+.flaticon-medical-history:before { content: "\f13f"; }
+.flaticon-mortgage:before { content: "\f140"; }
+.flaticon-building:before { content: "\f141"; }
+.flaticon-transport-1:before { content: "\f142"; }
+.flaticon-construction-9:before { content: "\f143"; }
+.flaticon-construction-8:before { content: "\f144"; }
+.flaticon-desk-lamp:before { content: "\f145"; }
+.flaticon-wall:before { content: "\f146"; }
+.flaticon-construction-7:before { content: "\f147"; }
+.flaticon-drawing-1:before { content: "\f148"; }
+.flaticon-technology-1:before { content: "\f149"; }
+.flaticon-wrench:before { content: "\f14a"; }
+.flaticon-construction-6:before { content: "\f14b"; }
+.flaticon-security:before { content: "\f14c"; }
+.flaticon-water-1:before { content: "\f14d"; }
+.flaticon-roller:before { content: "\f14e"; }
+.flaticon-construction-5:before { content: "\f14f"; }
+.flaticon-construction-4:before { content: "\f150"; }
+.flaticon-technology:before { content: "\f151"; }
+.flaticon-water:before { content: "\f152"; }
+.flaticon-construction-3:before { content: "\f153"; }
+.flaticon-energy:before { content: "\f154"; }
+.flaticon-construction-2:before { content: "\f155"; }
+.flaticon-construction-1:before { content: "\f156"; }
+.flaticon-people:before { content: "\f157"; }
+.flaticon-transport:before { content: "\f158"; }
+.flaticon-construction:before { content: "\f159"; }
+.flaticon-drawing:before { content: "\f15a"; }

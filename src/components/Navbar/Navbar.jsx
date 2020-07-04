@@ -1,10 +1,9 @@
 import React, { Component } from "react"
 
-import Logo from '../../images/logo.png'
+import Logo from "../../images/logo.png"
 import Navs from "./Navs"
 
 export default class Navbar extends Component {
-
   state = {
     scrolled: false,
     isOpen: false,
@@ -26,9 +25,11 @@ export default class Navbar extends Component {
                 <img alt="" src={Logo} />
               </a>
               <button
-                className = {
-                  `${this.state.isOpen ? "navbar-toggler" : "navbar-toggler collapsed"}`
-                }
+                className={`${
+                  this.state.isOpen
+                    ? "navbar-toggler"
+                    : "navbar-toggler collapsed"
+                }`}
                 type="button"
                 data-toggle="collapse"
                 data-target="#navbarSupportedContent"
@@ -39,10 +40,14 @@ export default class Navbar extends Component {
               >
                 <i className="fa fa-bars"></i>
               </button>
-              < div className = {
-                `${this.state.isOpen ? "collapse navbar-collapse show" : "collapse navbar-collapse"}`
-              }
-              id = "navbarSupportedContent" >
+              <div
+                className={`${
+                  this.state.isOpen
+                    ? "collapse navbar-collapse show"
+                    : "collapse navbar-collapse"
+                }`}
+                id="navbarSupportedContent"
+              >
                 <Navs />
               </div>
             </div>

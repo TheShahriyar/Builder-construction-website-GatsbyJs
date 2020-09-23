@@ -8,7 +8,7 @@ const NotFound = () => {
       <section className="contact-section pad100">
         <div className="container">
           <div className="row">
-            <div clas="col-lg-6 col-sm-12 mx-auto">
+            <div className="col-lg-6 col-sm-12 mx-auto">
               <div className="page-not-found">
                 <h1> 404 </h1>
                 <h2> Page Not Found </h2>

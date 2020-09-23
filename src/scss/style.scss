@@ -21,6 +21,7 @@ Author URI: http://theshahriyar.com
   padding: 5px 0;
   background: #333;
 }
+
 .top-header-social {
   li {
     font-size: 16px;
@@ -53,6 +54,7 @@ Author URI: http://theshahriyar.com
 
     &:hover {
       background-color: #fff;
+
       a {
         i {
           color: #242424;
@@ -159,6 +161,7 @@ Author URI: http://theshahriyar.com
 
   .carousel-control-prev,
   .carousel-control-next {
+
     &.left,
     &.right {
       opacity: 1;
@@ -414,6 +417,7 @@ Author URI: http://theshahriyar.com
 .about-text {
   .about-title {
     margin-bottom: 25px;
+
     h3 {
       font-size: 42px;
       text-transform: uppercase;
@@ -433,6 +437,7 @@ Author URI: http://theshahriyar.com
       font-size: 25px;
       color: $brand-primary;
     }
+
     h4 {
       font-size: 18px;
     }
@@ -484,6 +489,7 @@ Author URI: http://theshahriyar.com
   &.white {
     .media-body {
       color: #fff;
+
       h3 {
         color: #fff;
       }
@@ -574,11 +580,13 @@ Author URI: http://theshahriyar.com
   }
 
   &.white {
+
     .animated-icon,
     .animated-number,
     h4 {
       color: #fff !important;
     }
+
     .animated-number {
       &:after {
         background: #fff;
@@ -765,9 +773,11 @@ Author URI: http://theshahriyar.com
 .team-member-3 {
   position: relative;
   padding-bottom: 30px;
+
   .team-member-img {
     position: relative;
     overflow: hidden;
+
     &:after {
       position: absolute;
       top: 0;
@@ -783,6 +793,7 @@ Author URI: http://theshahriyar.com
       transition: all 0.3s;
     }
   }
+
   .team-info {
     position: absolute;
     right: auto;
@@ -794,6 +805,7 @@ Author URI: http://theshahriyar.com
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
     text-align: center;
+
     .team-name {
       font-size: 16px;
       display: block;
@@ -801,6 +813,7 @@ Author URI: http://theshahriyar.com
       text-align: center;
       text-transform: uppercase;
     }
+
     .team-designation {
       font-size: 15px;
       margin: auto;
@@ -809,6 +822,7 @@ Author URI: http://theshahriyar.com
       text-transform: uppercase;
     }
   }
+
   .icon {
     position: absolute;
     bottom: 10%;
@@ -820,12 +834,15 @@ Author URI: http://theshahriyar.com
     transform: scale(0);
     text-align: center;
     opacity: 0;
-    > li {
+
+    >li {
       display: inline-block;
+
       &:hover {
         color: $brand-primary;
       }
     }
+
     a {
       font-size: 16px;
       line-height: 35px;
@@ -838,17 +855,20 @@ Author URI: http://theshahriyar.com
       color: $white;
     }
   }
+
   &:hover {
     .team-member-img {
       &:after {
         opacity: 1;
       }
     }
+
     .team-info {
       bottom: 50%;
       color: $white;
       opacity: 1;
     }
+
     .icon {
       -webkit-transform: scale(1);
       transform: scale(1);
@@ -906,6 +926,7 @@ Author URI: http://theshahriyar.com
 
   &.white {
     color: $white;
+
     h4,
     p {
       color: $white;
@@ -921,14 +942,17 @@ Author URI: http://theshahriyar.com
 // Start Testimonial Section
 //---------------------------------------
 .testimonial-container {
-  .owl-dots {
-    justify-content: flex-start;
+  .slick-dots {
+    text-align: left;
+    bottom: -40px;
   }
 }
+
 .testimonial-item {
   p {
     margin-bottom: 30px;
   }
+
   img {
     width: 80px !important;
     border-radius: 100%;
@@ -1116,6 +1140,7 @@ Author URI: http://theshahriyar.com
 
     a {
       color: $brand-primary;
+
       &:hover {
         color: $text-color;
       }
@@ -1223,6 +1248,7 @@ Author URI: http://theshahriyar.com
     p {
       color: #9b9b9b;
     }
+
     a {
       color: $brand-primary;
       font-weight: 600;
@@ -1279,6 +1305,7 @@ Author URI: http://theshahriyar.com
     color: #d32931;
     margin-bottom: 16px;
   }
+
   p {
     margin-bottom: 0;
   }
@@ -1518,6 +1545,7 @@ Author URI: http://theshahriyar.com
 
 .pagination {
   li {
+
     a,
     a:hover,
     a:focus {
@@ -1595,6 +1623,7 @@ Author URI: http://theshahriyar.com
 .widget-archive,
 .widget-category {
   li {
+
     //margin-bottom: 15px;
     a {
       font-weight: 400;
@@ -1697,6 +1726,7 @@ Author URI: http://theshahriyar.com
 
 .contact-form,
 .quotation-form {
+
   input[type="text"],
   input[type="email"],
   input[type="tel"],
@@ -1809,6 +1839,7 @@ Author URI: http://theshahriyar.com
       h5 {
         font-weight: 400;
       }
+
       a {
         display: block;
         font-size: 16px;

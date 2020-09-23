@@ -21,7 +21,7 @@ export default class Navbar extends Component {
         <header className="clearfix" id="header">
           <nav className="navbar navbar-expand-lg">
             <div className="container">
-              <a className="navbar-brand" href="index.html">
+              <a className="navbar-brand" href="/">
                 <img alt="" src={Logo} />
               </a>
               <button

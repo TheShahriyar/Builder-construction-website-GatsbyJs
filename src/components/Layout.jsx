@@ -8,6 +8,7 @@ import "../scss/style.scss"
 import "../scss/responsive.scss"
 import Navbar from "./Navbar/Navbar"
 import TopBar from "./TopBar"
+import Footer from "./Footer"
 
 function Layout({ children }) {
   return (
@@ -15,6 +16,7 @@ function Layout({ children }) {
       <TopBar />
       <Navbar />
       {children}
+      <Footer />
     </>
   )
 }

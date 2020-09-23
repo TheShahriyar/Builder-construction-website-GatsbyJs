@@ -47,17 +47,15 @@ const Navs = () => {
           </Link>
           <ul className="drop-down">
             <li>
-              <Link to="blog-right-sidebar.html">Blog Right Sidebar</Link>
+              <Link to="/blog">Blog Page</Link>
             </li>
             <li>
-              <Link to="blog-single-pos-right-sidebar.html">
-                Single Right Sidebar
-              </Link>
+              <Link to="/single-post">Single Post</Link>
             </li>
           </ul>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="contact.html" activeClassName="active">
+          <Link className="nav-link" to="/contact" activeClassName="active">
             Contact
           </Link>
         </li>

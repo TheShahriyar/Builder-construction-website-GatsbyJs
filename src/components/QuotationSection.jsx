@@ -70,9 +70,7 @@ const QuotationSection = () => {
                         id="category"
                         required="required"
                       >
-                        <option value="" selected="selected">
-                          Category
-                        </option>
+                        <option value="">Category</option>
                         <option value="Apartment">Apartment</option>
                         <option value="Office">Office</option>
                         <option value="Kitchen">Kitchen</option>

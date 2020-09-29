@@ -1,13 +1,14 @@
-@media (min-width: 1024px) and (max-width: 1200px) {
-}
+@media (min-width: 1024px) and (max-width: 1200px) {}
 
 @media (min-width: 768px) and (max-width: 1023px) {
   .tab-hidden {
     display: none;
   }
+
   .tab-mb-30 {
     margin-bottom: 30px !important;
   }
+
   .navbar-fixed-top {
     margin-top: 0;
     background-color: #000;
@@ -21,8 +22,7 @@
   }
 }
 
-@media (max-width: 992px) {
-}
+@media (max-width: 992px) {}
 
 @media (max-width: 767px) {
   .mbl-hidden {
@@ -36,12 +36,15 @@
   .mbl-mt-30 {
     margin-top: 30px;
   }
+
   .pad-t110 {
     padding-top: 50px;
   }
+
   .pad-t100 {
     padding-top: 50px;
   }
+
   .pad-b80 {
     padding-bottom: 40px;
   }
@@ -50,14 +53,27 @@
     padding: 50px 0;
   }
 
+  .breadcrumb-section {
+    padding: 40px 0;
+  }
+
   .navbar-fixed-top {
     margin-top: 0;
     background-color: #000;
     position: inherit !important;
   }
 
+  .top-social {
+    display: flex;
+    justify-content: center;
+  }
+
   .address-box {
     margin-bottom: 30px;
+  }
+
+  .top-header-address {
+    text-align: center;
   }
 
   .margin80 {
@@ -94,9 +110,11 @@
     float: left;
     padding-left: 0;
   }
+
   .footer-menu ul {
     text-align: left;
   }
+
   .footer-menu ul li a {
     padding-left: 0;
     padding-right: 15px;
@@ -109,5 +127,4 @@
   }
 }
 
-@media (max-width: 320px) {
-}
+@media (max-width: 320px) {}

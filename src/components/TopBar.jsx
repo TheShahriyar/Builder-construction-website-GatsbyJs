@@ -10,32 +10,32 @@ const TopBar = () => {
               <div className="top-header-social">
                 <ul className="top-social">
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="#">
                       <i className="fa fa-facebook"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="#">
                       <i className="fa fa-twitter"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="#">
                       <i className="fa fa-pinterest"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="#">
                       <i className="fa fa-dribbble"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="#">
                       <i className="fa fa-linkedin"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="#">
                       <i className="fa fa-rss"></i>
                     </a>
                   </li>
